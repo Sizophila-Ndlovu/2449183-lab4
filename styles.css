@@ -15,7 +15,7 @@
 }
 
 .country-card {
-    background: rgb(131, 202, 207);
+    background: rgb(255, 255, 255);
     padding: 20px;
     margin: 20px auto;
     width: 300px;
@@ -36,7 +36,7 @@
     margin: 20px;
 }
 .border-country {
-    background: rgb(131, 202, 207);
+    background: rgb(255, 255, 255);
     padding: 10px;
     border-radius: 6px;
     box-shadow: 0 0 5px rgba(0,0,0,0.1);
